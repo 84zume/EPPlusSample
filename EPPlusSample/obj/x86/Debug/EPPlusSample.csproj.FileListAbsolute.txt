@@ -1,0 +1,7 @@
+C:\Develop\EPPlusSample\EPPlusSample\bin\Debug\EPPlusSample.exe
+C:\Develop\EPPlusSample\EPPlusSample\bin\Debug\EPPlusSample.pdb
+C:\Develop\EPPlusSample\EPPlusSample\bin\Debug\EPPlus.dll
+C:\Develop\EPPlusSample\EPPlusSample\bin\Debug\EPPlus.xml
+C:\Develop\EPPlusSample\EPPlusSample\obj\x86\Debug\EPPlusSample.csprojResolveAssemblyReference.cache
+C:\Develop\EPPlusSample\EPPlusSample\obj\x86\Debug\EPPlusSample.exe
+C:\Develop\EPPlusSample\EPPlusSample\obj\x86\Debug\EPPlusSample.pdb
